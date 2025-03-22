@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=FFFFFF&background=1E42FF00&center=true&width=435&lines=axxelet)](https://guns.lol/cats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=FFFFFF&background=1E42FF00&center=true&width=435&lines=axxelet)](https://guns.lol/w_ws)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=FFFFFF&background=1E42FF00&center=true&width=435&lines=Github.com%2Faxxelet)](https://guns.lol/w_ws)
 
@@ -8,8 +8,7 @@
 
 > ### ⚙️ Discord Status: 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/627411222056271894)](https://discord.com/users/627411222056271894)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/627411222056271894?showDisplayName=true&hideStatus=false&theme=dark&bg=000000&borderRadius=10px&ignoreAppId=627411222056271894)](https://discord.com/users/627411222056271894)
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  > ### 🎈 Socials 
  
