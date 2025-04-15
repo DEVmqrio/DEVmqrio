@@ -12,8 +12,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 > ### ⚙️ activity: 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4572781" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/vbgn.png" alt="Your Image Badge" />
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
  > ### 🎈 Socials 
  
    [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@mqrioSTW)
