@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=000000&background=FFFFFF00&width=435&lines=(kali%40kali)-%5B~%5D-%24+github.com%2FDEVmqrio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=000000&background=FFFFFF00&width=435&lines=(kali%40kali)-%5B~%5D-%24+github.com%2FDEVmqrio)](https://github.com/DEVmqrio)
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 
