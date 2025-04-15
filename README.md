@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=000000&background=FFFFFF00&width=435&lines=(kali%40kali)-%5B~%5D-%24+github.com%2FDEVmqrio)](https://github.com/DEVmqrio)
-
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=000000&background=FFFFFF00&width=435&lines=(kali%40kali)-%5B~%5D-%24+https%3A%2F%2Fguns.lol%2Fw_ws)](https://guns.lol/w_ws)
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
