@@ -10,6 +10,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/627411222056271894?showDisplayName=true&hideStatus=false&theme=dark&bg=000000&borderRadius=10px&ignoreAppId=627411222056271894)](https://discord.com/users/627411222056271894)
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+> ### ⚙️ activity: 
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4572781" style='border:none;'></iframe>
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  > ### 🎈 Socials 
  
    [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@mqrioSTW)
