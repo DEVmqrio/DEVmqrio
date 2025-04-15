@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.comfontUnbounded&weight=700&size=30&duration=5000&pause=1000&color=FFFFFF&background=1E42FF00&center=true&width=435&lines=mqrioo)) (https://guns.lol/w_ws)
-
-[[TypingSVG(https://readmetypingsvg.demolab.comfont=Unbounded&weight=700&pause=1000&color=FFFFFF&background=1E42FF00&center=true&width=435&lines=Github.com%2FDEVmqrio)](https://guns.lol/w_ws)]
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=000000&background=FFFFFF00&width=435&lines=(kali%40kali)-%5B~%5D-%24+github.com%2FDEVmqrio)](https://git.io/typing-svg)
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 
